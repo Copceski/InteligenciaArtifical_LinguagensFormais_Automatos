@@ -32,10 +32,57 @@ Ao concluir a atividade, o estudante deverá ser capaz de:
 Durante a leitura, marque no artigo:
 
 - uma passagem que apresente a dificuldade enfrentada pelos estudantes;
+
+A aplicação e compreensão do conteúdo de Linguagens Formais e Autômatos (LFA) em 
+disciplinas e cursos de Ciência da Computação, apesar de fundamental na fixação de 
+conceitos e habilidades importantes para o profissional em formação, pode se provar 
+uma atividade desafiadora e abstrata quando abordada por iniciantes.  
+
 - uma justificativa para o uso de ferramentas educacionais;
+
+ Isso permite ao aluno 
+vivenciar, em ambientes de simulação, os principais conceitos vistos na teoria. Ao 
+contemplar o estudante com uma estratégia didática complementar e alternativa em 
+relação àquela exclusivamente algébrica, criam-se as condições para que, por meio de 
+perspectivas diferentes, ele obtenha um nível de compreensão mais completo em relação 
+à matéria. Nesse contexto, o uso de ferramentas que aumentem a interação e a resposta 
+visual do conteúdo ao interagir com o usuário pode fazer da experiência um caminho 
+mais intuitivo, lúdico e simples para diversos alunos. 
+
 - duas características que diferenciem as ferramentas analisadas;
+Diferentes tipos de autômatos podem ser gerados pelo JFLAP (Figura 1), com a 
+criação e manipulação de estados por meio do mouse para criar estados, transições e 
+deletar elementos. JFLAP possui o teste iterativo de cada estado e conversão de AFND 
+para AFD. Uma utilização do JFLAP para MTs pode ser encontrada em Campano 
+Junior et al. (2019).
+
+e 
+
+UC Davis Automaton Simulator [Dickerson 2021] é uma ferramenta online que permite 
+diversas operações e reconhecimentos por meio de código similar ao do JavaScript. 
+Com a referida ferramenta é possível gerar a representação de transições e estados de 
+um AFD e AFND, além de expressões regulares, gramáticas livres de contexto e MTs. 
+O processo é um pouco diferente das ferramentas mais comuns.  A inserção dos 
+estados em formato de código cria a representação gráfica apenas dos estados e, na 
+sequência, é possível usar um campo de inserção de dados para testar strings no 
+AFD/AFND em tempo real. Dessa forma, o bloco de código abaixo gera a representação 
+visual apresentada na Figura 3.   
+
 - uma limitação ou lacuna percebida no estudo;
+
+ porém identificou-se que apesar da existência e catálogo 
+de ferramentas que auxiliem a manipulação de elementos existentes nas disciplinas 
+como autômatos finitos e de pilha de forma lúdica [Rodger et al. 1997], poucas 
+ferramentas têm sido usadas nesses cursos [Brito Junior e Aguiar 2019]. 
+Apesar do relativamente extenso número de aplicações abordando
+
 - uma afirmação com a qual você concorda ou discorda.
+- 
+O uso de ludicidade, interfaces e mecanismos que aumentem a interatividade ao 
+mesmo tempo em que diminuem a dificuldade de assimilação de tópicos complexos, 
+como é o caso dos conteúdos de Linguagens Formais e Autômatos, permite melhor 
+compreensão e um foco ampliado no real conhecimento e nas diversas aplicações desse 
+conteúdo de maneira simples e prática. 
 
 Registre suas anotações no quadro abaixo.
 
